@@ -87,7 +87,7 @@
     "gulp-task-listing": "1.0.1",
     "istanbul": "^0.4.5",
     "mocha": "^3.3.0",
-    "superagent": "1.6.1",
+    "superagent": "5.2.2",
     "supertest": "1.1.0"
   },
   "directories": {},
