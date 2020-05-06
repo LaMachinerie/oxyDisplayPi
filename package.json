@@ -1,0 +1,26 @@
+{
+  "name": "oxydisplaypi",
+  "version": "1.0.0",
+  "description": "Website server raspberry pi for data vizualisation of oxymeter",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaMachinerie/oxyDisplayPi.git"
+  },
+  "author": "JulesTopart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaMachinerie/oxyDisplayPi/issues"
+  },
+  "homepage": "https://github.com/LaMachinerie/oxyDisplayPi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "johnny-five": "^1.4.0",
+    "opn": "^6.0.0",
+    "socket.io": "^2.3.0"
+  }
+}
